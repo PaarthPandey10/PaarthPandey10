@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey, I'm Paarth Pandey
 
-<!--
-**PaarthPandey10/PaarthPandey10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Future Computer Science Engineer | Cybersecurity Intern🔐 Focused on Network Security, Penetration Testing & Malware Analysis💻 Learning through hands-on labs, VMs, and real-world scenarios📈 Growing skills in Python, SQL, HTML/CSS, and Kali Linux
 
-Here are some ideas to get you started:
+🧰 Tools & Platforms I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux Terminal | 🖥️ Windows CMD & PowerShell | 🛠️ Virtual Machines
+
+🧪 Trend Vision One | 🕵️‍♂️ Hack The Box | 🔓 TryHackMe | 🧠 LeetCode
+
+💻 Programming Languages: Python, SQL, HTML/CSS, JavaScript (beginner)
+
+🌱 Currently learning: Git & GitHub, Cloud Security, and Advanced Recon📚 Building projects, solving CTFs, and documenting labs on GitHub⚡ Fun facts: I love cooking, cricket, weightlifting, and running
+
+📫 Connect with me: LinkedIn | Portfolio
+
