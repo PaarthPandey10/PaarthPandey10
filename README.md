@@ -12,5 +12,6 @@
 
 🌱 Currently learning: Git & GitHub, Cloud Security, and Advanced Recon📚 Building projects, solving CTFs, and documenting labs on GitHub⚡ Fun facts: I love cooking, cricket, weightlifting, and running
 
-📫 Connect with me: LinkedIn | Portfolio
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [Portfolio](https://sites.google.com/view/paarthse-portfolio/home)
+
 
