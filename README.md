@@ -28,11 +28,16 @@ Includes audits, documentation, and professional statements.
 ### 🧾 [whitepapers](https://github.com/PaarthPandey10/whitepapers)  
 Internship and research whitepapers on topics like credential dumping and XDR monitoring.
 
-### 📓 [notes](https://github.com/PaarthPandey10/notes)  
-Personal study notes on cybersecurity, cloud computing, programming, and Linux.
+### 🖥️ [cloud-practitioner-labs](https://github.com/PaarthPandey10/cloud-practitioner-labs)  
+Labs performed on AWS Cloud Quest as part of AWS Cloud Practitioner Exam preparation.
+Includes walkthroughs, explanations, and screenshots.
 
 ### 🏅 [certificates](https://github.com/PaarthPandey10/certificates)  
 PDF/image record of my certifications and achievements from Google, Trend Micro, EC-Council, Simplilearn, etc.
+
+### 📓 [notes](https://github.com/PaarthPandey10/notes)  
+Personal study notes on cybersecurity, cloud computing, programming, and Linux.
+
 
 ---
 
