@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Paarth Pandey
 
 🎓 Incoming B.Tech Computer Science student  
-🛡️ Cybersecurity Intern | 🧠 Learner | 💻 Technologist  
+🛡️ AVIT & Security Intern | 🧠 Learner | 💻 Technologist  
 📍 Based in Dubai | 🌐 Open to global collaboration
 
 ---
