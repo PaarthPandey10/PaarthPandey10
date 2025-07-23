@@ -45,5 +45,8 @@ Personal study notes on cybersecurity, cloud computing, programming, and Linux.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/)
 - 🧠 [GitHub](https://github.com/PaarthPandey10)
+- 👨‍💻 [HackerOne](https://hackerone.com/paarthpandey10)
+- 🪲 [BugCrowd](https://bugcrowd.com/PaarthPandey10)
+- 🟩 [HackTheBox](https://app.hackthebox.eu/profile/1326608)
 - ✉️ paarthdxb@gmail.com
 
