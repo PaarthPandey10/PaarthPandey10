@@ -48,6 +48,9 @@ Personal study notes on cybersecurity, cloud computing, programming, and Linux.
 - 👨‍💻 [HackerOne](https://hackerone.com/paarthpandey10)
 - 🪲 [BugCrowd](https://bugcrowd.com/PaarthPandey10)
 - 🟩 [HackTheBox](https://app.hackthebox.eu/profile/1326608)
+- 🟥 [TryHackMe](https://tryhackme.com/p/PaarthPandey10)
+- 💻 [CodeChef](https://www.codechef.com/users/paarthpandey10)
+- 🖥️ [LeetCode](https://leetcode.com/u/paarthpandey10/)
 - 🌐 [Portfolio Website](https://sites.google.com/view/paarthse-portfolio/)
 - ✉️ paarthdxb@gmail.com
 
