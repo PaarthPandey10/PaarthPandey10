@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paarth Pandey
 
-🎓 Incoming B.Tech Computer Science student  
+🎓 B.Tech CSE @ MNIT Jaipur'29
 🛡️ AVIT & Security Intern | 🧠 Learner | 💻 Technologist  
 📍 Based in Dubai | 🌐 Open to global collaboration
 
