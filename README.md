@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Paarth Pandey
 
 🎓 B.Tech CSE @ MNIT Jaipur'29 | 
-👨‍💻 Former AVIT & Security Intern @ EGIS, Dubai |
-🛡️ Former Cybersecurity Intern @ Trend Micro, Dubai |
-🧠 Active Learner | 💻 Cybersecurity & Networking Enthusiast
+👨‍💻 Former AVIT & Security Intern @ EGIS |
+🛡️ Former Cybersecurity Intern @ Trend Micro |
+🧠 Active Learner | 💻 Cybersecurity & Networking Enthusiast |
 📍 Based in Dubai | 🌐 Open to global collaboration
 
 ---
