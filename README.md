@@ -27,10 +27,14 @@ I believe in hands-on learning through structured paths, side projects, and cont
 Projects from the Google Cybersecurity Professional Certificate (Coursera).  
 Includes audits, documentation, and professional statements.
 
+### 🖥️ [ibm-z-mainframe-lab](https://github.com/PaarthPandey10/ibm-z-mainframe-lab)
+Labs performed on VS Code as part of IBM Z Xplore program - Concepts (Upcoming: Advanced)
+Includes visual guides and screenshots.
+
 ### 🧾 [whitepapers](https://github.com/PaarthPandey10/whitepapers)  
 Internship and research whitepapers on topics like credential dumping and XDR monitoring.
 
-### 🖥️ [cloud-practitioner-labs](https://github.com/PaarthPandey10/cloud-practitioner-labs)  
+### ☁️ [cloud-practitioner-labs](https://github.com/PaarthPandey10/cloud-practitioner-labs)  
 Labs performed on AWS Cloud Quest as part of AWS Cloud Practitioner Exam preparation.
 Includes walkthroughs, explanations, and screenshots.
 
