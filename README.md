@@ -14,6 +14,7 @@ I'm a cybersecurity and computer science enthusiast currently building a strong 
 
 - Network Security, Penetration Testing, and Malware Analysis
 - Cloud & XDR-based Security (Trend Micro Vision One)
+- Mainframe Practitioning in IBM Z
 - Programming in Python, SQL, and Linux/Windows CLI
 - Real-world security projects via Coursera, internships, and self-practice
 
