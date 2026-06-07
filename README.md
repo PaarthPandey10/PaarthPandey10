@@ -59,6 +59,6 @@ Personal study notes on cybersecurity, cloud computing, programming, and Linux.
 - 🟥 [TryHackMe](https://tryhackme.com/p/PaarthPandey10)
 - 💻 [CodeChef](https://www.codechef.com/users/paarthpandey10)
 - 🖥️ [LeetCode](https://leetcode.com/u/paarthpandey10/)
-- 🌐 [Portfolio Website](https://sites.google.com/view/paarthse-portfolio/)
+- 🌐 [Portfolio Website](https://paarthpandey10.github.io/)
 - ✉️ paarthdxb@gmail.com
 
