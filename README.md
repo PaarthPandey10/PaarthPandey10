@@ -28,6 +28,10 @@ I believe in hands-on learning through structured paths, side projects, and cont
 Projects from the Google Cybersecurity Professional Certificate (Coursera).  
 Includes audits, documentation, and professional statements.
 
+### 🤝 [open-source-contributions](https://github.com/PaarthPandey10/open-source-contributions)  
+Open-source contributions done by me in multiple organizations related to Networking & Cybersecurity.
+Mostly but not limited to: Wireshark Foundation & Open Web Application Security Project (OWASP).
+
 ### 🖥️ [ibm-z-mainframe-lab](https://github.com/PaarthPandey10/ibm-z-mainframe-lab)
 Labs performed on VS Code as part of IBM Z Xplore program - Concepts (Upcoming: Advanced)
 Includes visual guides and screenshots.
