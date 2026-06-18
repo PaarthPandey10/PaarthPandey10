@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Paarth Pandey
 
 🎓 B.Tech CSE @ MNIT Jaipur'29 | 
+🧾 Tech-Legal Research Intern @ Barakah Advisors |
 👨‍💻 Former AVIT & Security Intern @ EGIS |
 🛡️ Former Cybersecurity Intern @ Trend Micro |
 🧠 Active Learner | 💻 Cybersecurity & Networking Enthusiast |
