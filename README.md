@@ -2,9 +2,10 @@
 
 🎓 B.Tech CSE @ MNIT Jaipur'29 | 
 🌍 Open-Source Contributor |
-🧾 Tech-Legal Research Intern @ Barakah Advisors |
+📟 IT/OT Intern @ Delta Controls |
 👨‍💻 Former AVIT & Security Intern @ EGIS |
 🛡️ Former Cybersecurity Intern @ Trend Micro |
+🧾 Former Tech-Legal Research Intern @ Barakah Advisors |
 🧠 Active Learner | 💻 Cybersecurity & Networking Enthusiast |
 📍 Based in Dubai | 🌐 Open to global collaboration
 
@@ -44,6 +45,9 @@ Internship and research whitepapers on topics like credential dumping and XDR mo
 ### ☁️ [cloud-practitioner-labs](https://github.com/PaarthPandey10/cloud-practitioner-labs)  
 Labs performed on AWS Cloud Quest as part of AWS Cloud Practitioner Exam preparation.
 Includes walkthroughs, explanations, and screenshots.
+
+### 📟 [ot-security-and-ics-network-labs](https://github.com/PaarthPandey10/ot-security-and-ics-network-labs) 
+Hands-on Operational Technology (OT) and networking devices (IT) projects — configuring enterprise-grade firewalls, switches, and bare-metal ICS infrastructure during my internship @ Delta Controls, 2026.
 
 ### 🏅 [certificates](https://github.com/PaarthPandey10/certificates)  
 PDF/image record of my certifications and achievements from Google, Trend Micro, EC-Council, Simplilearn, etc.
