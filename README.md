@@ -47,7 +47,7 @@ Labs performed on AWS Cloud Quest as part of AWS Cloud Practitioner Exam prepara
 Includes walkthroughs, explanations, and screenshots.
 
 ### 📟 [ot-security-and-ics-network-labs](https://github.com/PaarthPandey10/ot-security-and-ics-network-labs) 
-Hands-on Operational Technology (OT) and networking devices (IT) projects — configuring enterprise-grade firewalls, switches, and bare-metal ICS infrastructure during my internship @ Delta Controls, 2026.
+Configured enterprise-grade firewalls, switches, and bare-metal Industrial Control Systems (ICS) during hands-on work in my IT/OT internship at Delta Controls.
 
 ### 🏅 [certificates](https://github.com/PaarthPandey10/certificates)  
 PDF/image record of my certifications and achievements from Google, Trend Micro, EC-Council, Simplilearn, etc.
