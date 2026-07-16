@@ -46,7 +46,7 @@ Internship and research whitepapers on topics like credential dumping and XDR mo
 Labs performed on AWS Cloud Quest as part of AWS Cloud Practitioner Exam preparation.
 Includes walkthroughs, explanations, and screenshots.
 
-### 📟 [ot-security-and-ics-network-labs](https://github.com/PaarthPandey10/ot-security-and-ics-network-labs) 
+### 📟 [enterprise-it-ot-infrastructure-security-labs](https://github.com/PaarthPandey10/enterprise-it-ot-infrastructure-security-labs) 
 Configured enterprise-grade firewalls, switches, and bare-metal Industrial Control Systems (ICS) during hands-on work in my IT/OT internship at Delta Controls.
 
 ### 🏅 [certificates](https://github.com/PaarthPandey10/certificates)  
