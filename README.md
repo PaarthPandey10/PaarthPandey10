@@ -62,7 +62,8 @@ Personal study notes on cybersecurity, cloud computing, programming, and Linux.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/)
 - 🧠 [GitHub](https://github.com/PaarthPandey10)
-- 🪙 [Credly](https://www.credly.com/users/paarth-pandey.6d3d510b/badges)
+- 🪙 [Credly](https://www.credly.com/users/paarthpandey/)
+- 📲 [AWS Builder Center](https://builder.aws.com/community/@paarthpandey10)
 - 👨‍💻 [HackerOne](https://hackerone.com/paarthpandey10)
 - 🪲 [BugCrowd](https://bugcrowd.com/PaarthPandey10)
 - 🟩 [HackTheBox](https://app.hackthebox.eu/profile/1326608)
