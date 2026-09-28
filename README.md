@@ -2,10 +2,10 @@
 
 🎓 B.Tech CSE @ MNIT Jaipur'29 | 
 🌍 Open-Source Contributor |
-📟 IT/OT Intern @ Delta Controls |
 👨‍💻 Former AVIT & Security Intern @ EGIS |
 🛡️ Former Cybersecurity Intern @ Trend Micro |
 🧾 Former Tech-Legal Research Intern @ Barakah Advisors |
+📟 Former IT/OT Intern @ Delta Controls |
 🧠 Active Learner | 💻 Cybersecurity & Networking Enthusiast |
 📍 Based in Dubai | 🌐 Open to global collaboration
 
